@@ -1,0 +1,13 @@
+127.0.0.1 - - [29/Mar/2023:11:43:52 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:43:54 +0200] "GET /Basic_application_based_on_MVC/index.jsp HTTP/1.1" 200 374
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:43:54 +0200] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:43:56 +0200] "GET /Basic_application_based_on_MVC/Controller?page=login HTTP/1.1" 200 128
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:43:59 +0200] "GET /Basic_application_based_on_MVC/Controller?page=signup HTTP/1.1" 200 130
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:44:00 +0200] "GET /Basic_application_based_on_MVC/Controller?page=about HTTP/1.1" 200 140
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:52:44 +0200] "GET /JSTL_Functions/otherFunctions.jsp HTTP/1.1" 404 767
+127.0.0.1 - - [29/Mar/2023:11:53:07 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:53:08 +0200] "GET /JSTL_Functions/otherFunctions.jsp HTTP/1.1" 500 2751
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:53:08 +0200] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:11:55:39 +0200] "GET /JSTL_Functions/otherFunctions.jsp HTTP/1.1" 500 2751
+127.0.0.1 - - [29/Mar/2023:14:57:34 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:14:57:36 +0200] "GET /Reading_URL_parameters/ParameterServlet.jsp HTTP/1.1" 200 168

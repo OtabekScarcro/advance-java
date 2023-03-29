@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Reading from beans using expression elements">
+        <property name="context-root" value="Reading_from_beans_using_expression_elements"/>
+    </wb-module>
+</project-modules>

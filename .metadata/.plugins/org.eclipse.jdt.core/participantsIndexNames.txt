@@ -1,0 +1,37 @@
+INDEX VERSION 1.132
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2550855201.index
+\Basic application based on MVC\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3429009313.index
+\Forward and redirect\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1970992035.index
+\Forms under JSP\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2966086585.index
+\Hello-World\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1333323200.index
+\Hello-World\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\609223774.index
+\Session under jsp overview\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1489714608.index
+\JSTL Functions\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2328661711.index
+\JSTL Settingup\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1753251937.index
+\Beans overview\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2718868908.index
+\JSP expressions\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3937707903.index
+\Reading from beans using expression elements\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2020891795.index
+\Basic form validations\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\234600061.index
+\Sample Xml file\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4099490942.index
+\include files in jsp page\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4114514053.index
+\Project\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3137437318.index
+\Forms under Servlet\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1601508324.index
+\Reading URL parameter(s)\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1084145351.index
+\JSP scriplets\src\main\java

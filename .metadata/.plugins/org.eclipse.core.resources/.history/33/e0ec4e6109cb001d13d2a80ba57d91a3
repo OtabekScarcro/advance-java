@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Session under jsp overview">
+        <property name="context-root" value="Session_under_jsp_overview"/>
+        <property name="java-output-path" value="/Session under jsp overview/build/classes"/>
+    </wb-module>
+</project-modules>

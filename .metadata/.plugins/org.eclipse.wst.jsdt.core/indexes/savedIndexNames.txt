@@ -1,0 +1,22 @@
+INDEX VERSION 1.4+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3117376122.index
+59718547.index
+2696313057.index
+151379530.index
+3427601866.index
+4028370478.index
+3097785809.index
+3106854409.index
+2958518894.index
+2612046683.index
+1224378925.index
+1672686202.index
+2328661711.index
+3752510086.index
+2370737556.index
+3878483932.index
+449384428.index
+2317495751.index
+1601508324.index
+1203334533.index
+3074068798.index

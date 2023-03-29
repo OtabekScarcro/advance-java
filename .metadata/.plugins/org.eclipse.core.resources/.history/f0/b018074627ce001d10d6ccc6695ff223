@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<name>John</name>
+		<gende>Male</gender>
+		<age>18</age>
+	</user>
+	<user>
+		<name>John</name>
+		<gende>Male</gender>
+		<age>18</age>
+	</user>
+	<user>
+		<name>John</name>
+		<gende>Male</gender>
+		<age>18</age>
+	</user>
+	<user>
+		<name>John</name>
+		<gende>Male</gender>
+		<age>18</age>
+	</user>
+</users>

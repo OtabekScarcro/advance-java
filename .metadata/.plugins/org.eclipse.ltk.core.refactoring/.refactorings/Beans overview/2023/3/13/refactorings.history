@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;User.java&apos; to &apos;Reading from beans using expression elements/src/main/java/org.studyeasy.beans&apos;&#x0D;&#x0A;- Original project: &apos;Beans overview&apos;&#x0D;&#x0A;- Destination element: &apos;Reading from beans using expression elements/src/main/java/org.studyeasy.beans&apos;&#x0D;&#x0A;- Original element: &apos;org.studyeasy.beans.User.java&apos;" description="Copy compilation unit" destination="=Reading from beans using expression elements/src\/main\/java&lt;org.studyeasy.beans" element1="/src\/main\/java&lt;org.studyeasy.beans{User.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1679962090340" units="1" version="1.0"/>
+</session>
